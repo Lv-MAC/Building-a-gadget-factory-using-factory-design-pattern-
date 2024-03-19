@@ -1,1 +1,1 @@
-# Building-a-gadget-factory-using-factory-design-pattern-
+# Building a gadget factory using factory design pattern
